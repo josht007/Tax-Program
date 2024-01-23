@@ -1,2 +1,4 @@
 # Tax-Program
-Tax Program in Java
+This is a simple Tax Program in Java.
+
+This program gathers information from the user and calculates their taxes.
